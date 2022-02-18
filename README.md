@@ -16,7 +16,7 @@ I am currently a Computer Science Engineering student at Manipal Institute of Te
 [![website](./img/instagram-light.svg)](https://instagram.com/keshav_lalit#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/keshav_lalit#gh-dark-mode-only)
 
-### Code at: 
+### Coding Platforms: 
 
 <a href="https://auth.geeksforgeeks.org/user/keshav162001/profile">
 <img align="left" alt="gfg" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/geeksforgeeks.svg" style="padding-right:10px;" />
@@ -24,6 +24,9 @@ I am currently a Computer Science Engineering student at Manipal Institute of Te
 <a href="https://www.codechef.com/users/keshav_lalit">
 <img align="left" alt="codechef" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/codechef.svg" style="padding-right:10px;" />
 </a>
+
+<br />
+<br />
 
 ### Languages and Tools:
 
