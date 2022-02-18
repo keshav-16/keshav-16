@@ -6,7 +6,7 @@ I am currently a Computer Science Engineering student at Manipal Institute of Te
 - 🌱 I’m currently learning Back-end Web Development
 - 👯 I’m looking to collaborate on Blockchain Technology and Web Development
 - 🤔 I’m looking for help with Django
-- 📫 How to reach me: Contact me on Instagram <img alt="insta qr" width="26px" src="keshav_lalit_nametag.png" style="padding-right:10px;" /> or Linkedin or mail at keshav162001@gmail.com
+- 📫 How to reach me: Contact me on Instagram or Linkedin or mail at keshav162001@gmail.com
 
 ### Connect with me:
 
