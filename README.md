@@ -29,7 +29,7 @@ I am currently a Computer Science Engineering student at Manipal Institute of Te
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
 <img align="left" alt="Solidity" width="26px" src="https://cdn.worldvectorlogo.com/logos/solidity.svg" style="padding-right:10px;" />
-<img align="left" alt="Truffle" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
+<img align="left" alt="Ethereum" width="26px" src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" style="padding-right:10px;" />
 <img align="left" alt="web3.js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
 <!---<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
