@@ -26,7 +26,7 @@ I am currently a Computer Science Engineering student at Manipal Institute of Te
 </a>
 
 <br />
-<br />
+
 
 ### Languages and Tools:
 
