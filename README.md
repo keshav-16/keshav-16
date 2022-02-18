@@ -1,11 +1,12 @@
 ### Hi there, I am Keshav Lalit 👋 
 
+I am currently a Computer Science Engineering student at Manipal Institute of Technology
 
 - 🔭 I’m currently working on Front-end stack Web Development and Blockchain Development
 - 🌱 I’m currently learning Back-end Web Development
 - 👯 I’m looking to collaborate on Blockchain Technology and Web Development
 - 🤔 I’m looking for help with Django
-- 📫 How to reach me: 
+- 📫 How to reach me: Contact me on Instagram or Linkedin or mail at keshav162001@gmail.com
 -  
 
 ### Connect with me:
@@ -34,3 +35,10 @@
 
 <br />
 <br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
