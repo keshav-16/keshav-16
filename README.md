@@ -18,10 +18,10 @@ I am currently a Computer Science Engineering student at Manipal Institute of Te
 
 ### Coding Platforms: 
 
-<a href="https://auth.geeksforgeeks.org/user/keshav162001/profile">
+<a href="https://auth.geeksforgeeks.org/user/keshav162001/profile" target="_blank">
 <img align="left" alt="gfg" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/geeksforgeeks.svg" style="padding-right:10px;" />
 </a>
-<a href="https://www.codechef.com/users/keshav_lalit">
+<a href="https://www.codechef.com/users/keshav_lalit" target="_blank">
 <img align="left" alt="codechef" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/codechef.svg" style="padding-right:10px;" />
 </a>
 
