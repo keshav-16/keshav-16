@@ -24,6 +24,9 @@ I am currently a Computer Science Engineering student at Manipal Institute of Te
 <a href="https://www.codechef.com/users/keshav_lalit" target="_blank">
 <img align="left" alt="codechef" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/codechef.svg" style="padding-right:10px;" />
 </a>
+<a href="https://stackoverflow.com/users/18388303/keshav-lalit" target="_blank">
+<img align="left" alt="codechef" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" style="padding-right:10px;" />
+</a>
 
 <br />
 
