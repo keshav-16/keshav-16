@@ -2,9 +2,9 @@
 
 I am currently a Computer Science Engineering student at Manipal Institute of Technology
 
-- 🔭 I’m currently working on Front-end stack Web Development and Blockchain Development
+- 🔭 I’m currently working on Front-end stack Web Development
 - 🌱 I’m currently learning Back-end Web Development
-- 👯 I’m looking to collaborate on Blockchain Technology and Web Development
+- 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with Back-end with nodeJS
 - 📫 How to reach me: Contact me on Instagram or Linkedin or mail at keshav162001@gmail.com
 
